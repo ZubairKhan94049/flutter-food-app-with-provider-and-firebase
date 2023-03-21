@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893503253310",
+    "project_id": "pytoo-panda",
+    "storage_bucket": "pytoo-panda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893503253310:android:ee91714e9883ea839dda6f",
+        "android_client_info": {
+          "package_name": "com.xeetech.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893503253310-u6ei9uqbgqnpgkg9gu3s2tdj8bhlhplj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBakCSC8iXKaV4aJKGfZ7VdMYtjd7O5o0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893503253310-u6ei9uqbgqnpgkg9gu3s2tdj8bhlhplj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
